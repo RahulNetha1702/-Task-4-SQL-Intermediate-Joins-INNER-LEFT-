@@ -1,0 +1,5 @@
+InvoiceId,CustomerId,InvoiceDate,Total,FirstName,Country
+101,1,2024-01-10,15.98,Rahul,India
+102,2,2024-02-15,8.99,Anita,India
+103,1,2024-03-05,25.97,Rahul,India
+104,3,2024-03-20,5.99,John,USA
